@@ -1,0 +1,33 @@
+body {
+    background-color: hsla(0, 1%, 33%, 0.93);
+}
+.block {
+    padding: 10px;
+    background-color: hsla(0, 1%, 33%, 0.83);
+}
+h1 {
+    margin: auto;
+    margin-left: 20px;
+    font-size: 25px;
+}
+#biography {
+    text-align: center;
+    font-size: 2em;
+    background-color: hsla(0, 1%, 21%, 0.83);
+    margin-bottom: 10px;
+    padding: 10px;
+}
+#about {
+    margin-top: 20px;
+}
+p {
+    margin: auto;
+    margin-left: 100px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+hr {  
+    height: 2px;  
+    background-color: black;  
+    border: none;  
+}  
